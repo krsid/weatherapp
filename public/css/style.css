@@ -1,0 +1,29 @@
+body{
+  margin: 150px 300px;
+  background:url(weather.jpg);
+  font-family: 'Arvo', cursive;
+}
+
+.content{
+  padding: 20px 20px;
+  text-align: center;
+  text-shadow: 3px 0 #fff;
+  background: blanchedalmond;
+  margin: 50px 50px;
+  border-radius: 15px;
+  opacity: .9;
+}
+
+.box{
+  border-radius: 20px;
+  padding: 5px 5px;
+}
+
+
+.btn{
+  border-radius: 25px;
+  margin: 0 15px;
+  padding: 5px 10px;
+  background: black;
+  color: white;
+}
